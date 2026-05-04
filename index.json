@@ -1,3 +1,9 @@
 [
   { "file": "design.md", "desc": "PDS 디자인 철학과 정책" }
+  { "file": "SKILL_button.md", "desc": "PDS 버튼 컴포넌트 정책" }
+  { "file": "SKILL_dashboard.md", "desc": "PDS 대시보드 컴포넌트 정책" }
+  { "file": "SKILL_inputfield.md", "desc": "PDS 인풋필드 컴포넌트 정책" }
+  { "file": "SKILL_onboarding.md", "desc": "PDS 온보딩 화면 생성 정책" }
+  { "file": "SKILL_record.md", "desc": "PDS PGHD 기록 화면 생성 정책" }
+  { "file": "SKILL_snackbar.md", "desc": "PDS 스낵바 컴포넌트 정책" }
 ]
