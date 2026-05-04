@@ -9,8 +9,8 @@ description: Generate an onboarding or profile setup screen where users enter pe
 각 인풋은 **아코디언 방식**으로 동작합니다 — 탭하면 펼쳐지고, 다시 탭하면 접힙니다.
 
 > 색상·스페이싱·타이포그래피 토큰은 `design.md`를 참조하세요.
-> 인풋박스 상세 규칙은 `input-component` 스킬을 참조하세요.
-> 버튼 규칙은 `button-component` 스킬을 참조하세요.
+> 인풋박스 상세 규칙은 `SKILL_inputfueld.md` 를 참조하세요.
+> 버튼 규칙은 `SKILL_button.md` 를 참조하세요.
 
 ---
 
