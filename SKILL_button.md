@@ -139,3 +139,4 @@ Light 모드: inactive/primary = #BEBBBB, 텍스트 = #757171
 7. **텍스트는 한 줄, 가운데 정렬** — 줄바꿈 없음
 8. **아이콘 크기는 iconSize/20** — 임의 크기 사용 금지
 9. **텍스트 크기는 size에 따라** — small=13px, default=15px, large=17px
+10. **figma에서 생성 시 🎃button 컴포넌트 하위의 텍스트 레이어에 CTA 내용 적용** 
