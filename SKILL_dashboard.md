@@ -5,7 +5,7 @@ description: Generate dashboard record cards for health data categories. Use thi
 
 # Dashboard Card Component (대시보드 기록 카드)
 
-이 스킬은 헬스케어 앱 대시보드의 기록 카드 컴포넌트를 생성합니다.
+이 스킬은 디자인 시스템(design.md)을 기반으로 대시보드의 기록 카드 컴포넌트를 생성합니다. 토큰 값을 직접 하드코딩하지 말고, 아래 규칙과 토큰 이름을 그대로 사용하세요.
 
 > 색상·스페이싱·타이포그래피 토큰은 `design.md`를 참조하세요.
 > 임의의 hex 값, px 값, gray 계열 색상을 하드코딩하지 마세요.
