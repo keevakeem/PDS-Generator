@@ -1,6 +1,6 @@
 ---
 name: record-input-screen
-description: Generate a health record input screen layout. Use this skill whenever the user asks to create a data entry screen, measurement input screen, or health recording screen — such as "혈압 입력 화면", "혈당 기록 화면", "체중 측정 화면", or any screen where the user enters health data with a title, input fields, and a CTA button. The user will provide: a title, the number of input fields, and label/placeholder info for each field.
+description: "Generate a health record input screen layout. Use this skill whenever the user asks to create a data entry screen, measurement input screen, or health recording screen — such as '혈압 입력 화면', '혈당 기록 화면', '체중 측정 화면', or any screen where the user enters health data with a title, input fields, and a CTA button. The user will provide: a title, the number of input fields, and label/placeholder info for each field."
 ---
 
 # Record Input Screen (건강 기록 입력 화면)
