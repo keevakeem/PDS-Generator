@@ -5,9 +5,12 @@ description: Apply snackbar and toast color tokens when generating snackbar or t
 
 # pastaColor / snackbar
 
-이 스킬은 디자인 시스템(design.md)을 기반으로 대시보드의 기록 카드 컴포넌트를 생성합니다. 토큰 값을 직접 하드코딩하지 말고, 아래 규칙과 토큰 이름을 그대로 사용하세요.
+이 스킬은 디자인 시스템(`design.md`)을 기반으로 snackbar 및 toast 컴포넌트를 생성합니다.
+토큰 값을 직접 하드코딩하지 말고, 아래 규칙과 토큰 이름을 그대로 사용하세요.
 
-색상·스페이싱·타이포그래피 토큰은 design.md를 참조하세요. 임의의 hex 값, px 값, gray 계열 색상을 하드코딩하지 마세요.
+> 색상·스페이싱·타이포그래피 전체 토큰은 `design.md`를 참조하세요.
+> 이 파일은 인풋 컴포넌트의 **구조·상태·변형·규칙**만 정의합니다.
+> 해당 컬러 토큰은 snackbar와 toast 컴포넌트에 공통으로 사용됩니다.
 
 ---
 
