@@ -5,7 +5,7 @@ description: Generate input field components that strictly follow the healthcare
 
 # Input Component
 
-이 스킬은 헬스케어 앱 디자인 시스템(`design.md`)을 기반으로 인풋 컴포넌트를 생성합니다.
+이 스킬은 디자인 시스템(`design.md`)을 기반으로 인풋 컴포넌트를 생성합니다.
 토큰 값을 직접 하드코딩하지 말고, 아래 규칙과 토큰 이름을 그대로 사용하세요.
 
 > 색상·스페이싱·타이포그래피 전체 토큰은 `design.md`를 참조하세요.
