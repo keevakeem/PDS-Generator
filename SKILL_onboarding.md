@@ -205,7 +205,7 @@ CTA 버튼 텍스트: 다음
 ## AI 규칙 요약
 
 1. **타이틀, 인풋 아이템 목록, CTA 버튼 텍스트는 필수** — 이 3가지 없으면 생성 불가
-2. **인풋박스는 input-component 스킬 규칙 그대로** — 별도 스타일 임의 적용 금지
+2. **인풋박스는 SKILL_inputfueld.md 스킬 규칙 그대로** — 별도 스타일 임의 적용 금지
 2. **한 번에 하나만 expanded** — 다른 항목 탭 시 이전 항목은 자동으로 collapsed
 3. **선택된 picker 값은 core/primary(#FFCA00)** — 임의 색상 사용 금지
 4. **Number Picker 선택 행은 배경 강조 바 포함** — Date Picker는 배경 강조 없음
