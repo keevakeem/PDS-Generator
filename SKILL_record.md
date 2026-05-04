@@ -8,9 +8,9 @@ description: Generate a health record input screen layout. Use this skill whenev
 이 스킬은 건강 데이터 입력 화면을 생성합니다.
 사용자가 제공하는 정보: **타이틀**, **인풋박스 목록(라벨 + 플레이스홀더)**, **선택 옵션**만으로 화면을 구성합니다.
 
-> 색상·스페이싱·타이포그래피 토큰은 `design.md`를 참조하세요.
-> 인풋박스 상세 규칙은 `input-component` 스킬을 참조하세요.
-> 버튼 규칙은 `button-component` 스킬을 참조하세요.
+> 색상·스페이싱·타이포그래피 토큰은 design.md를 참조하세요.
+> 인풋박스 상세 규칙은 SKILL_inputfueld.md 를 참조하세요.
+> 버튼 규칙은 SKILL_button.md 를 참조하세요.
 
 ---
 
