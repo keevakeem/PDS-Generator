@@ -5,7 +5,7 @@
     "required": true
   },
   {
-    "file": "SKILL_button.md",
+    "file": "./skill/SKILL_button.md",
     "desc": "PDS 버튼 컴포넌트 정책"
   },
   {
